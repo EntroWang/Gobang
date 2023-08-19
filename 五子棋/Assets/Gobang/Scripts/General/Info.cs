@@ -27,5 +27,5 @@ public class Info : MonoBehaviour
             Debug.Log(str);
 
         _text.text = str;
-    }
+    }   
 }
