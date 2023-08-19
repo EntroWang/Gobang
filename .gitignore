@@ -145,6 +145,7 @@ v16/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
+
 # Recordings can get excessive in size
 /[Rr]ecordings/
 
